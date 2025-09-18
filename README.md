@@ -1,7 +1,8 @@
 
 # TEAM GO 
-<img width="367" height="137" alt="download" src="https://github.com/user-attachments/assets/9c983e52-b5f6-4fd9-9cdd-f97129ad7acf" />
 <img width="500" height="500" alt="0_YISbBYJg5hkJGcQd" src="https://github.com/user-attachments/assets/58f833ad-61d1-4900-9cd1-becb2b73ac2a" />
+
+<img width="367" height="137" alt="download" src="https://github.com/user-attachments/assets/9c983e52-b5f6-4fd9-9cdd-f97129ad7acf" />
 
 
 - This repo goes over the GO programming Language
