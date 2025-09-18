@@ -6,6 +6,6 @@
 
 ### Collaborators
 
-Nathaniel Rivera
-Joel Rodriguez
+Nathaniel Rivera,
+Joel Rodriguez,
 Asim Razzaq
