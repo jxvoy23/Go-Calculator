@@ -7,3 +7,4 @@ This project is part of my Programming Languages course work.
 ### Collaborators
 
 Nathaniel Rivera
+Joel Rodriguez
